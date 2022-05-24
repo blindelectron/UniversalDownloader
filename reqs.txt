@@ -2,3 +2,4 @@ pybeamit
 aria2p
 pygit
 wget
+wxpython
